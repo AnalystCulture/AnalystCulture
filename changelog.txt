@@ -11,5 +11,5 @@
     ref: https://learn.microsoft.com/en-us/azure/virtual-machines/custom-domain#add-custom-domain-to-vm-public-ip-address
 
 4/24/2025
-  Installed and configured SSL/TLS on the VM.
+  Installed and configured SSL/TLS on the VM (using Certbot).
     ref: https://fedoraproject.org/wiki/Nginx#SSL/TLS_Configuration
