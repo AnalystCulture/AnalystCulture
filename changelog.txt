@@ -11,6 +11,5 @@
     ref: https://learn.microsoft.com/en-us/azure/virtual-machines/custom-domain#add-custom-domain-to-vm-public-ip-address
 
 4/24/2025
-  Created an Azure Key Vault to install TLS on the VM.
-    ref: https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-secure-web-server
-    note: Assigned myself the Key Vault Administrator role and stored the default policy in a variable to complete the task.
+  Installed and configured SSL/TLS on the VM.
+    ref: https://fedoraproject.org/wiki/Nginx#SSL/TLS_Configuration
