@@ -3,3 +3,4 @@
   Created accounts for analystculture.com
     Gmail
     Github
+    Azure
