@@ -13,3 +13,4 @@
 4/24/2025
   Installed and configured SSL/TLS on the VM (using Certbot).
     ref: https://fedoraproject.org/wiki/Nginx#SSL/TLS_Configuration
+  Created a YouTube channel, @analystculture.
