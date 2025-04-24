@@ -1,5 +1,11 @@
 4/23/2025
   Installed Fedora Cloud 42:
     sudo update dnf -y
-  Installed nginx.
+  Installed and configured nginx.
     ref: https://fedoraproject.org/wiki/Nginx
+  Nginx is throwing a 403 forbidden issue upon visiting /index.html despite configuration.
+
+4/24/2025
+  Fixed the nginx: "403 Forbidden" issue:
+    SELinux permissions needed to be configured on the /www directory.
+      ref: https://stackoverflow.com/a/26228135/30363838
