@@ -1,3 +1,5 @@
 4/23/2025
   Installed Fedora Cloud 42:
     sudo update dnf -y
+  Installed nginx.
+    ref: https://fedoraproject.org/wiki/Nginx
