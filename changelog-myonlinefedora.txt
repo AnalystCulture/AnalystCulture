@@ -9,3 +9,6 @@
   Fixed the nginx: "403 Forbidden" issue:
     SELinux permissions needed to be configured on the /www directory.
       ref: https://stackoverflow.com/a/26228135/30363838
+
+4/25/2025
+  Added favicon to root folder via SCP to home, then cp into webroot.
